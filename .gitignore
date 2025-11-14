@@ -1,0 +1,16 @@
+# Data
+data/
+
+# Python 暫存檔
+__pycache__/
+*.pyc
+
+# Jupyter 暫存檔
+.ipynb_checkpoints/
+
+# 虛擬環境
+venv/
+.venv/
+
+# 系統檔案
+.DS_Store
